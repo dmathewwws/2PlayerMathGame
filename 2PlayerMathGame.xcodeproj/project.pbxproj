@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		272CC4671A65DBE0003A2BBF /* 2PlayerMathGame.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2PlayerMathGame.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		272CC4601A65DBB4003A2BBF = {
+			isa = PBXGroup;
+			children = (
+				272CC4671A65DBE0003A2BBF /* 2PlayerMathGame.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		272CC4611A65DBB4003A2BBF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 272CC4641A65DBB4003A2BBF /* Build configuration list for PBXProject "2PlayerMathGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 272CC4601A65DBB4003A2BBF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		272CC4651A65DBB4003A2BBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		272CC4661A65DBB4003A2BBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		272CC4641A65DBB4003A2BBF /* Build configuration list for PBXProject "2PlayerMathGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				272CC4651A65DBB4003A2BBF /* Debug */,
+				272CC4661A65DBB4003A2BBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 272CC4611A65DBB4003A2BBF /* Project object */;
+}
